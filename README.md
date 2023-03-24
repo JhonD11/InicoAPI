@@ -6,6 +6,6 @@
 ### Somos estudiantes de Ingenieria de Sistemas en Electiva de Profundización I, de la Corporación Universitaria Latinoameriaca.
 ## Spring 1:
 ### - Historia de Usuario EP-001
-![Historia técnica de Git](https://github.com/)
+![Historia técnica de Git](https://github.com/JhonD11/InicoAPI/blob/main/Imagenes/Historia.png)
 ### - Historia de Tecnica EP-002
-![Historia técnica de Git](https://github.com/)
+![Historia técnica de Git](https://github.com/JhonD11/InicoAPI/blob/main/Imagenes/Historia%20tecnica.png)
